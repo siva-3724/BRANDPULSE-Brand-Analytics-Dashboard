@@ -1,0 +1,7 @@
+# Transformer sentiment backend (SENTIMENT_BACKEND=transformer)
+transformers>=4.40
+torch>=2.2
+# Reddit collector (official API)
+praw>=7.7
+# Better language detection
+langdetect>=1.0.9
