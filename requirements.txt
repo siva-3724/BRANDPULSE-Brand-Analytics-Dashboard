@@ -5,3 +5,4 @@ plotly>=5.20
 vaderSentiment>=3.3.2
 python-dotenv>=1.0
 pytest>=7.4
+gunicorn
